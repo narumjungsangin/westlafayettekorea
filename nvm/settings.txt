@@ -1,0 +1,2 @@
+root: D:\westlafayettekorea\nvm
+path: C:\nvm4w\nodejs
